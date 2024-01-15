@@ -111,7 +111,7 @@ table {
     align-items: center;
 }
 .homepage .content{
-    margin-left: 15%;
+    margin-left: 55%;
     margin-right: 15%;
     display: flex;
     gap:20px;
@@ -120,7 +120,6 @@ table {
 .homepage .content .line{
     width:10px;
     height: 220px;
-    background-image: linear-gradient( #00b4db, #0083b0);
 }
 .homepage .content .word{
     display: flex;
