@@ -194,8 +194,8 @@ table {
 .about .details{
     display: flex;
     flex-direction: column;
-    gap:15px;
-    margin-left: 15%;
+    gap:5px;
+    margin-left: 5%;
 }
 .about .details span{
     font-size: 20px;
