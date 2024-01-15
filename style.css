@@ -125,16 +125,14 @@ table {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .request1{
-    width: 100px;
-    border: 2.5px solid rgb(230, 27, 27);
+    width: 70px;
+    border: 2px solid rgb(230, 27, 27);
     border-radius: 10px;
     background: #000000;
     padding: 30px 32px;
-    padding-top: 4px;
     height: 50%;
-    margin-top: 8px;
+    margin-top: 10px;
     color:#fff;
-    margin-bottom: -2%;
 }
 .section{
     display: flex;
