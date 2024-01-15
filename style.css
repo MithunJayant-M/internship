@@ -55,13 +55,6 @@ table {
 .phone-details{
     display: flex;
 }
-.request{
-    border: 2px solid white;
-    border-radius: 30px;
-    padding: 5px 15px;
-    height: 100%;
-    margin-top: 12px;
-}
 .logo .content{
     margin-left: 15%;
     margin-right: 15%;
@@ -90,17 +83,6 @@ table {
 }
 .logo .content .nav table tr td:hover{
     background-color: orange;
-}
-.logo .content .search{
-    background-color: black;
-    justify-content: center;
-    display: grid;
-    width: 30px;
-    text-align: center;
-    padding-top:19px ;
-    margin-top: -0.9%;
-    height: 41px;
-    color: white;
 }
 .homepage{
     height:550px;
@@ -149,7 +131,7 @@ table {
     background: #000000;
     padding: 15px 15px;
     padding-top: 8px;
-    height: 50%;
+    height: 100%;
     margin-top: 12px;
     color:#fff;
     margin-bottom: 12px;
@@ -222,7 +204,7 @@ table {
     justify-content: space-between;
 }
 .services .img img{
-    width: 10%;
+    width: 5%;
     border-radius: 10px;
 }
 a{
