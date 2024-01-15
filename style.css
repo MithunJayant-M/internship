@@ -143,7 +143,7 @@ table {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .request1{
-    width: 100px;
+    width: 50px;
     border: 2.5px solid rgb(230, 27, 27);
     border-radius: 10px;
     background: #000000;
@@ -152,7 +152,7 @@ table {
     height: 100%;
     margin-top: 12px;
     color:#fff;
-    margin-bottom: 2%;
+    margin-bottom: 12px;
 }
 .section{
     display: flex;
