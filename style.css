@@ -130,7 +130,6 @@ table {
 .homepage .content .word .word1{
     font-size: 25px;
     color: white;
-    text-shadow:5px 5px #3e0bd5;
 }
 .homepage .content .word .word2{
     font-size: 50px;
@@ -145,12 +144,13 @@ table {
 .request1{
     width: 100px;
     border: 2.5px solid rgb(230, 27, 27);
-    border-radius: 30px;
+    border-radius: 20px;
+    background: #000000;
     padding: 5px 15px;
     padding-top: 8px;
     height: 100%;
     margin-top: 12px;
-    color: rgb(57, 56, 56);
+    color:#fff;
     margin-bottom: -2%;
 }
 .section{
