@@ -3,7 +3,7 @@ body{
 }
 .home {
     margin: 0;
-    background-image: linear-gradient(to right, orange, pink);
+    background-image: linear-gradient(to right, #00b4db, #0083b0);
     height:780px;
 }
 
@@ -120,7 +120,7 @@ table {
 .homepage .content .line{
     width:10px;
     height: 220px;
-    background-image: linear-gradient(pink, orange);
+    background-image: linear-gradient( #00b4db, #0083b0);
 }
 .homepage .content .word{
     display: flex;
@@ -216,7 +216,7 @@ table {
     height: 100%;
     margin-top: 12px;
     color: white;
-    background-image: linear-gradient(to right, orange, pink);
+    background-image: linear-gradient(to right,  #00b4db, #0083b0);
     display: flex;
     justify-content: center;
     align-items: center;
