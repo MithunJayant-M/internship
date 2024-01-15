@@ -209,18 +209,6 @@ table {
     margin-right: 15%;
     border-radius: 10px;
 }
-.read{
-    width: 130px;
-    border-radius: 30px;
-    height: 100%;
-    margin-top: 12px;
-    color: white;
-    background-image: linear-gradient(to right,  #00b4db, #0083b0);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 22px;
-}
 .services{
     margin-left: 15%;
     margin-right: 15%;
