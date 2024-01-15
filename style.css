@@ -130,21 +130,22 @@ table {
 .homepage .content .word .word1{
     font-size: 25px;
     color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .homepage .content .word .word2{
     font-size: 50px;
     color: white;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    opacity: 50%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .homepage .content .word .word3{
+    font-size: 25px;
     color: white;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .request1{
     width: 100px;
     border: 2.5px solid rgb(230, 27, 27);
-    border-radius: 20px;
+    border-radius: 10px;
     background: #000000;
     padding: 5px 15px;
     padding-top: 8px;
@@ -202,11 +203,11 @@ table {
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
 }
 .about .img{
-    margin-left:10%;
+    margin-left:5%;
     display: flex;
     align-items: center;
     padding-top: 20px;
-    margin-right: 15%;
+    margin-right: 10%;
     border-radius: 10px;
 }
 .services{
@@ -222,7 +223,7 @@ table {
 }
 .services .img img{
     width: 30%;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 a{
     text-decoration: none;
