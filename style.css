@@ -204,8 +204,8 @@ table {
     justify-content: space-between;
 }
 .services .img img{
-    width: 40%;
-    border-radius: 20px;
+    width: 30%;
+    border-radius: 10px;
 }
 a{
     text-decoration: none;
